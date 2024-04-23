@@ -87,7 +87,7 @@ Before you begin, ensure that you have the following installed:
 4. *Access the Application:*
 
    Open your favorite browser and visit [http://localhost:80](http://localhost:80). Enjoy exploring the MERN stack application!
-   ![Alt Text]([https://raw.githubusercontent.com/DGkapse/DGkapse.github.io/master/images/w.png))
+   ![Alt Text](https://raw.githubusercontent.com/DGkapse/DGkapse.github.io/master/images/w.png)
 
     
 ## Data Persistence
