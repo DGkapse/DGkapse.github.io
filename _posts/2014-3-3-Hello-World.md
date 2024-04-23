@@ -59,7 +59,7 @@ Before you begin, ensure that you have the following installed:
      CREATE TABLE student (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(40), roll_number INT, class VARCHAR(16));
      CREATE TABLE teacher (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(40), subject VARCHAR(40), class VARCHAR(16));
      
-     ![Alt Text](https://raw.githubusercontent.com/chitt31/chitt31.github.io/master/images/25.PNG)
+     ![Alt Text](https://raw.githubusercontent.com/DGkapse/DGkapse.github.io/master/images/1.png)
 2. *Backend Application:*
 
    - Navigate to the backend directory.
